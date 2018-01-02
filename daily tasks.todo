@@ -1,0 +1,52 @@
+Dec 26:
+   ☐ 
+   ☐ fix test server @Tod
+   ☐ fix release script, work with @Sandor
+   ☐ meet with George for export progress
+   ☐ license is not sticking for sales server
+   ☐ OP-238
+   ☐ Schema server
+   ☐ Orchestrator test
+   ☐ Discuss with xander x-pack installation on es-server
+   ☐ 
+
+
+
+Dec 21:   
+   ✔ @high run PE on t1 @done (17-12-26 08:09)
+   ✔ @high 1.6.0 ZL-369 testing.. where to release t1 is needed by 1.5.0. 1.6.0 also have pe section @done (17-12-26 08:09)
+   ✔ @low review maintenance window place @Tod @done (17-12-26 08:09)
+   ✔ @low 1.5.0 sign in issue @done (17-12-26 08:09)
+   ✔ discuss with David, F5 vs Cisco @done (17-12-21 15:26)
+   ✔ touch base with Kay for demo server @done (17-12-21 15:26)
+   ✔ Helped Radu on investigating MobyFTP issue @done (17-12-21 15:26)
+   ✔ 1.6.0 alters @done (17-12-21 15:26)
+   ✔ sent out release 1.5.0 @done (17-12-21 10:13)
+   ✔ test --updateTags option @done (17-12-21 10:13)
+   ✔ MP-180, registration on video page. release for Amy @done (17-12-21 15:26)
+
+Dec 20:
+   ✔ Discussed test environment, database size planning and load balancing with David @done (17-12-21 01:42)
+   ✔ Dicussed npm package release with CTO's @done (17-12-21 01:42)
+   ✔ work with Radu on mobyftp issue @done (17-12-20 12:24)
+   ✔ @low release script update to update release.json @done (17-12-20 09:46)
+   ✔ @today CJ last task locking @due(17-12-20 07:15) @done (17-12-20 07:26)
+   ✔ @critical MTSS updates by Alex, @due(17-12-20 10:30) @done (17-12-20 05:56)
+   ✔ @today send project to Gabriel @done (17-12-20 04:41)
+Future items:
+   ☐ automate npm publishing
+   ☐ liquibase execution
+   ☐ ZA >> C server usage, tblSubject is still used in ZA
+   ☐ explore using big query
+Server items:
+   ☐ @critical make sure web-cj changes to nginx default.conf and default.ssl.conf are not lost
+   ☐ nginx load balancing
+   ☐ elastic search monitoring
+   ☐ query capture tool review
+   ☐ database size evaluation
+   ☐ 
+
+   ☐ 
+   ☐ test environment, release process
+   ☐ load balancing and firewall
+   ☐ database size
