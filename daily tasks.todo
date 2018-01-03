@@ -1,4 +1,4 @@
-Dec 26:
+Jan 2:
    ☐ 
    ☐ fix test server @Tod
    ☐ fix release script, work with @Sandor
@@ -8,7 +8,23 @@ Dec 26:
    ☐ Schema server
    ☐ Orchestrator test
    ☐ Discuss with xander x-pack installation on es-server
+   ☐ copy tickets is not working correctly,create item
+   ☐ handle passwords, possibly multi config option
+   ☐ create docket for elk server, replace elk-dev, elk-test, elk-pro-test
+   ☐ rename za-dev-new to za-d1
+   ☐ test docker for print service
+   ☐ clean up /etc/hosts for chef-ws
+   ☐ @high discuss IN-714 with Kevin
    ☐ 
+   
+   ☐ test proxysql setup for zl databases
+   ☐ verify backups, replication
+   ☐ 
+   ☐ 
+   ☐ 
+   ☐ 
+   ☐ 
+   ✔ Fixed 1.6.0 alters - @done (18-01-02 11:44)
 
 
 
